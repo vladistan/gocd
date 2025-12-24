@@ -506,3 +506,5 @@ api/api-internal-agent-v1/logs/
 api/api-internal-agent-v1/config/
 
 /.ash_history
+
+*.und
